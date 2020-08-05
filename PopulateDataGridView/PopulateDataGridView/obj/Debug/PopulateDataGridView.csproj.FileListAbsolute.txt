@@ -1,0 +1,10 @@
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\bin\Debug\PopulateDataGridView.exe.config
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\bin\Debug\PopulateDataGridView.exe
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\bin\Debug\PopulateDataGridView.pdb
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.csprojAssemblyReference.cache
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.Form1.resources
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.Properties.Resources.resources
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.csproj.GenerateResource.cache
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.csproj.CoreCompileInputs.cache
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.exe
+C:\Users\marin\source\repos\PopulateDataGridView\PopulateDataGridView\obj\Debug\PopulateDataGridView.pdb
