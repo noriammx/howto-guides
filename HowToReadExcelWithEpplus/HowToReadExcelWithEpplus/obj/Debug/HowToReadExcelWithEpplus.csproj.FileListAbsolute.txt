@@ -1,0 +1,13 @@
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\bin\Debug\HowToReadExcelWithEpplus.exe.config
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\bin\Debug\HowToReadExcelWithEpplus.exe
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\bin\Debug\HowToReadExcelWithEpplus.pdb
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.csprojAssemblyReference.cache
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.Form1.resources
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.Properties.Resources.resources
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.csproj.GenerateResource.cache
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.csproj.CoreCompileInputs.cache
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.exe
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.pdb
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\bin\Debug\EPPlus.dll
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\bin\Debug\EPPlus.xml
+D:\github\howto-guides\HowToReadExcelWithEpplus\HowToReadExcelWithEpplus\obj\Debug\HowToReadExcelWithEpplus.csproj.CopyComplete
